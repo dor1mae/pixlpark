@@ -1,0 +1,25 @@
+# Общие
+.DS_Store
+*.log
+*.tmp
+.env
+.env.local
+
+# Node.js / React
+node_modules/
+npm-debug.log*
+build/
+dist/
+.eslintcache
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pyc
+*.swp
+*.pdb
+*.db
+appsettings.Development.json
